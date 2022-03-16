@@ -1,2 +1,3 @@
-# Kartin_mastercard_ya_da_visacard_oldugunu_bulan_luhn_algortimasi
+# LUHN_ALGORITHM
 Girilen kart numarasının geçerli olup olmadığını ve kart tipini (mastercard/visacard) bulan kod
+The code that finds whether the entered card number is valid and the card type (mastercard/visacard)
